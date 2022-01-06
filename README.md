@@ -1,0 +1,2 @@
+# SkyblockQOL
+SkyblockQOL Mithril script
